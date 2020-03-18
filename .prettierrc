@@ -9,6 +9,5 @@
   "trailingComma": "none",
   "bracketSpacing": true,
   "jsxBracketSameLine": false,
-  "arrowParens": "avoid",
-  "parser": "typescript"
+  "arrowParens": "avoid"
 }
