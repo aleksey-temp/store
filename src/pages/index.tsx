@@ -1,5 +1,8 @@
+import React from 'react'
 import { NextPage } from 'next'
 
-const Index: NextPage = () => <h1>Welcome</h1>
+import { Layout } from 'components/Layout'
+
+const Index: NextPage = () => <Layout>Hello World</Layout>
 
 export default Index
